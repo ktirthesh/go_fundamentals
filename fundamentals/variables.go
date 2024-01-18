@@ -16,4 +16,10 @@ func variables() {
 	fmt.Println(x)
 	fmt.Println(y)
 
+	fmt.Println("learn the new variable arithmatics")
+	fmt.Println("x + y", x+y)
+	fmt.Println("x - y", x-y)
+	fmt.Println("x * y", x*y)
+	fmt.Println("x / y", x/y)
+
 }
